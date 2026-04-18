@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Austin-Round Rock-San Marcos Metro Area, TX, US
 
-> Free BeamStation sample export with 3 rows and masked direct-contact fields.
+> Free BeamStation sample export with 15 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `466338` |
 | Location | Austin-Round Rock-San Marcos, TX |
 | Category | Restaurants |
-| Full dataset size | 115 records |
-| Free sample size | 3 records (2.61%) |
-| Last export | 2026-04-01T00:01:57.313892+00:00 |
+| Full dataset size | 155 records |
+| Free sample size | 15 records (9.68%) |
+| Last export | 2026-04-15T01:47:22.863847+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-austin-round-rock-san-marcos-metro-area-tx-us-sample-466338/releases/download/sample-latest/beamstation_466338_restaurants-us-austinroundrocksanmarcostx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
