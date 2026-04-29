@@ -1,12 +1,12 @@
 {
-  "export_job_id": "a4b49e71-6a37-48bf-acbb-60517c90365a",
+  "export_job_id": "b7567c1f-67de-4503-adf7-2b3fc25bc5e9",
   "id_short": 466338,
-  "published_at": "2026-04-22T07:32:06Z",
+  "published_at": "2026-04-29T19:02:59Z",
   "repo_name": "the-hhi-monopoly-index-for-austin-round-rock-san-marcos-metro-area-tx-us-sample-466338",
   "sample_asset_name": "beamstation_466338_restaurants-us-austinroundrocksanmarcostx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/466338/beamstation_466338_restaurants-us-austinroundrocksanmarcostx_SAMPLE_DIST.csv",
-  "sample_records": 13,
-  "sample_sha256": "d037465ae934a25edb5aab95215e6f963b5d1f54d2046257a083d53f6ddaa4b9",
-  "sample_size_bytes": 65945,
-  "total_records": 135
+  "sample_records": 15,
+  "sample_sha256": "b7973d890581e6b61bb50b7bd04f51b54dfa7a3dffb39239e749f3cc29ab0d88",
+  "sample_size_bytes": 71786,
+  "total_records": 150
 }
